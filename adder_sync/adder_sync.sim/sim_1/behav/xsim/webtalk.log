@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Webtalk v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:47:09 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Mon Oct 16 15:59:28 2023
+# Process ID: 55733
+# Current directory: /home/tigran/Desktop/experiments/Hardware/adder_sync/adder_sync.sim/sim_1/behav/xsim
+# Command line: wbtcv -mode batch -source /home/tigran/Desktop/experiments/Hardware/adder_sync/adder_sync.sim/sim_1/behav/xsim/xsim.dir/tb_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: /home/tigran/Desktop/experiments/Hardware/adder_sync/adder_sync.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: /home/tigran/Desktop/experiments/Hardware/adder_sync/adder_sync.sim/sim_1/behav/xsim/webtalk.jou
+#-----------------------------------------------------------
+source /home/tigran/Desktop/experiments/Hardware/adder_sync/adder_sync.sim/sim_1/behav/xsim/xsim.dir/tb_behav/webtalk/xsim_webtalk.tcl -notrace
+INFO: [Common 17-206] Exiting Webtalk at Mon Oct 16 15:59:30 2023...
